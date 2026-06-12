@@ -14,9 +14,15 @@ export async function proxy(request: NextRequest) {
   if (pathname.startsWith("/admin")) {
     if (pathname === "/admin/login") return NextResponse.next();
 
+    const isSecure = request.nextUrl.protocol === "https:";
+    const cookieName = isSecure
+      ? "__Secure-authjs.session-token"
+      : "authjs.session-token";
+
     const token = await getToken({
       req: request,
       secret: process.env.NEXTAUTH_SECRET,
+      cookieName,
     });
 
     if (!token || !ADMIN_ROLES.includes(token.role as string)) {
