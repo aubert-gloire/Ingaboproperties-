@@ -4,6 +4,9 @@ import { useState } from "react";
 import { signIn } from "next-auth/react";
 import { useRouter } from "next/navigation";
 import { Eye, EyeOff, Lock, Mail } from "lucide-react";
+import Image from "next/image";
+import Link from "next/link";
+import { ArrowLeft } from "lucide-react";
 
 export default function AdminLoginPage() {
   const router = useRouter();
@@ -33,12 +36,26 @@ export default function AdminLoginPage() {
 
   return (
     <div className="min-h-screen bg-forest-900 flex items-center justify-center p-4">
+      <Link
+        href="/"
+        className="absolute top-6 left-6 flex items-center gap-2 text-paper/50 hover:text-paper text-sm transition-colors duration-200"
+      >
+        <ArrowLeft className="w-4 h-4" />
+        Back to website
+      </Link>
       <div className="w-full max-w-md">
         <div className="text-center mb-8">
-          <div className="inline-flex items-center justify-center w-14 h-14 bg-gold-500 rounded-2xl mb-4">
-            <span className="text-forest-900 font-heading font-bold text-xl">IP</span>
+          <div className="flex justify-center mb-5">
+            <Image
+              src="/logo.png"
+              alt="Ingabo Properties"
+              width={160}
+              height={64}
+              className="h-44 w-auto object-contain brightness-0 invert"
+              priority
+            />
           </div>
-          <h1 className="font-heading text-2xl font-bold text-paper mb-1">Ingabo Admin</h1>
+          <h1 className="font-heading text-2xl font-bold text-paper mb-1">Admin Portal</h1>
           <p className="text-paper/50 text-sm">Sign in to access the dashboard</p>
         </div>
 

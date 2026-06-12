@@ -24,8 +24,8 @@
   --color-muted-fg: #5a7a6a;
 
   /* Fonts */
-  --font-sans: var(--font-geist-sans);
-  --font-heading: var(--font-lora);
+  --font-sans: var(--font-raleway);
+  --font-heading: var(--font-cormorant);
   --font-mono: var(--font-geist-mono);
 
   /* Border radius */
@@ -44,8 +44,18 @@
 body {
   background: var(--background);
   color: var(--foreground);
+  font-family: var(--font-raleway), sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.01em;
 }
 
 h1, h2, h3, h4 {
-  font-family: var(--font-heading), Georgia, serif;
+  font-family: var(--font-cormorant), Georgia, serif;
+  letter-spacing: -0.01em;
+}
+
+/* Luxury tracking for small uppercase labels */
+.tracking-luxury {
+  letter-spacing: 0.2em;
+  font-weight: 500;
 }
