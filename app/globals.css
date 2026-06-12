@@ -1,26 +1,51 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+@theme {
+  /* Forest Green — primary brand */
+  --color-forest-900: #0a1f15;
+  --color-forest-800: #0f2e1f;
+  --color-forest-700: #16432e;
+  --color-forest-600: #1f5a3f;
+  --color-forest-500: #2a7a55;
+  --color-forest-50: #f1f5f0;
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
+  /* Gold — accent */
+  --color-gold-600: #b8862f;
+  --color-gold-500: #d9a441;
+  --color-gold-400: #e6b864;
+  --color-gold-100: #f7eccf;
+
+  /* Paper — backgrounds */
+  --color-paper: #fbf8f1;
+  --color-paper-2: #f3ede1;
+
+  /* Semantic */
+  --color-border: #ddd8cc;
+  --color-muted-fg: #5a7a6a;
+
+  /* Fonts */
   --font-sans: var(--font-geist-sans);
+  --font-heading: var(--font-lora);
   --font-mono: var(--font-geist-mono);
+
+  /* Border radius */
+  --radius-sm: 6px;
+  --radius-md: 8px;
+  --radius-lg: 10px;
+  --radius-xl: 14px;
+  --radius-2xl: 18px;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+:root {
+  --background: #fbf8f1;
+  --foreground: #0a1f15;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-heading), Georgia, serif;
 }

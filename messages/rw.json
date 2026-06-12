@@ -1,0 +1,162 @@
+{
+  "nav": {
+    "home": "Ahabanza",
+    "about": "Abo Turibo",
+    "properties": "Imitungo",
+    "developments": "Iterambere",
+    "blog": "Amakuru",
+    "contact": "Twandikire",
+    "listWithUs": "Tangaza Imitungo Yawe",
+    "bookAppointment": "Saba Gahunda"
+  },
+  "hero": {
+    "headline": "Umunyamuryango Wawe mu Imitungo y'Inzabibu mu Rwanda",
+    "subheadline": "Shakisha amazu, ibibanza, n'imitungo y'ubucuruzi mu ntara zose z'u Rwanda",
+    "viewProperties": "Reba Imitungo",
+    "bookAppointment": "Saba Gahunda",
+    "listWithUs": "Tangaza Imitungo Yawe"
+  },
+  "featured": {
+    "label": "Ihitamo Ryiza",
+    "title": "Imitungo Yatoranijwe"
+  },
+  "stats": {
+    "totalProperties": "Imitungo Yose",
+    "happyClients": "Abakiriya Bashimye",
+    "yearsExperience": "Imyaka y'Uburambe",
+    "districtsCovered": "Uturere Twaseruwe"
+  },
+  "whyUs": {
+    "title": "Impamvu yo Guhitamo Ingabo Properties",
+    "professional": "Serivisi ya Inzobere",
+    "professionalDesc": "Ubuyobozi bw'inzobere mu nzira yose y'imitungo yawe",
+    "verified": "Imitungo Yemejwe",
+    "verifiedDesc": "Imitungo yose isuzumwa kandi yemezwa na teamu yacu",
+    "rwandaExperts": "Inzobere z'u Rwanda",
+    "rwandaExpertsDesc": "Ubumenyi burambuye bw'uturere n'imirenge yose y'u Rwanda",
+    "fastProcess": "Inzira Yihuse",
+    "fastProcessDesc": "Inzira yoroshye yo kugura, kugurisha, no gukodesha"
+  },
+  "propertyCard": {
+    "viewDetails": "Reba Ibisobanuro",
+    "forSale": "Kugurisha",
+    "forRent": "Gukodesha",
+    "nowSelling": "Ugurisha Ubu",
+    "bedrooms": "Ibyumba byo Kuryama",
+    "bathrooms": "Banyoni",
+    "area": "Ubuso",
+    "amenities": "Ibikorwa Byongeye",
+    "price": "Igiciro"
+  },
+  "filters": {
+    "allProperties": "Imitungo Yose",
+    "housesForSale": "Amazu yo Kugurisha",
+    "homesForRent": "Amazu yo Gukodesha",
+    "landForSale": "Ibibanza byo Kugurisha",
+    "apartments": "Amazu Manini",
+    "villas": "Amazu ya Villa",
+    "comingSoon": "Bizaza Vuba",
+    "searchPlaceholder": "Shakisha ku izina cyangwa ahantu...",
+    "minPrice": "Igiciro cy'Ibanze (RWF)",
+    "maxPrice": "Igiciro cy'Ikirenga (RWF)",
+    "minBedrooms": "Ibyumba by'Ibanze",
+    "allLocations": "Ahantu Hose",
+    "sortNewest": "Bishya Kuruta",
+    "sortPriceLow": "Igiciro Gito-Kinini",
+    "sortPriceHigh": "Igiciro Kinini-Gito"
+  },
+  "propertyDetail": {
+    "description": "Ibisobanuro",
+    "amenities": "Ibikorwa Byongeye",
+    "bookAppointment": "Saba Gahunda",
+    "contactAgent": "Vugana na Agent",
+    "similarProperties": "Imitungo Ingana",
+    "location": "Ahantu",
+    "specifications": "Ibisobanuro Birambuye"
+  },
+  "listWithUs": {
+    "title": "Tangaza Imitungo Yawe",
+    "subtitle": "Tanga imitungo yawe kugira ngo ibashe kubonwa n'ibihumbi by'abantu bashaka kugura cyangwa gukodesha",
+    "propertyTitle": "Izina ry'Imitungo",
+    "propertyType": "Ubwoko bw'Imitungo",
+    "listingType": "Ubwoko bw'Itangazo",
+    "price": "Igiciro (RWF)",
+    "district": "Akarere",
+    "sector": "Umurenge",
+    "address": "Aderesi Yuzuye",
+    "description": "Ibisobanuro",
+    "bedrooms": "Ibyumba byo Kuryama",
+    "bathrooms": "Banyoni",
+    "areaSqm": "Ubuso (m²)",
+    "upi": "Nomero ya UPI (Ibibanza gusa)",
+    "zoning": "Imiterere y'Ubutaka",
+    "amenities": "Ibikorwa Byongeye",
+    "photos": "Amafoto y'Imitungo",
+    "photosHint": "Nibura amafoto 3 asabwa",
+    "yourName": "Izina Ryawe",
+    "yourEmail": "Aderesi y'Imeyili",
+    "yourPhone": "Nimero ya Telefoni",
+    "yourWhatsapp": "WhatsApp (ntabwo bisabwa)",
+    "submit": "Tanga Imitungo Kugira Isuzumwe",
+    "successTitle": "Itangazo Ryakirijwe!",
+    "successMessage": "Tuzasuzuma imitungo yawe tukarekura mu masaha 24-48."
+  },
+  "bookAppointment": {
+    "title": "Saba Gahunda",
+    "subtitle": "Teganya gusura cyangwa ikiganiro na teamu yacu",
+    "fullName": "Amazina Yose",
+    "email": "Imeyili",
+    "phone": "Nimero ya Telefoni",
+    "whatsapp": "WhatsApp (ntabwo bisabwa)",
+    "propertyInterest": "Imitungo Ukunda",
+    "preferredDate": "Itariki Wishimiye",
+    "preferredTime": "Igihe Wishimiye",
+    "message": "Ubutumwa / Ibisobanuro",
+    "submit": "Saba Gahunda",
+    "successTitle": "Gahunda Yasabwe!",
+    "successMessage": "Tuzakemurira gahunda yawe mu masaha 24."
+  },
+  "contact": {
+    "title": "Twandikire",
+    "subtitle": "Turi hano kugufasha mu byerekeye imitungo",
+    "address": "Aderesi y'Ibiro",
+    "addressValue": "KG 11 Ave, Kigali, u Rwanda",
+    "phone": "Telefoni",
+    "email": "Imeyili",
+    "whatsapp": "WhatsApp",
+    "sendMessage": "Turongere Ubutumwa",
+    "yourName": "Izina Ryawe",
+    "yourEmail": "Imeyili Yawe",
+    "subject": "Insanganyamatsiko",
+    "message": "Ubutumwa",
+    "send": "Tuma Ubutumwa",
+    "followUs": "Dukurikire",
+    "successTitle": "Ubutumwa Bwoherejwe!",
+    "successMessage": "Tuzagusubiza vuba."
+  },
+  "footer": {
+    "tagline": "Umunyamuryango wawe wizewe mu imitungo y'u Rwanda",
+    "quickLinks": "Itumanaho Ryihuse",
+    "propertyTypes": "Ubwoko bw'Imitungo",
+    "contactUs": "Twandikire",
+    "allRightsReserved": "Uburenganzira bwose bwazigamwe",
+    "houses": "Amazu",
+    "apartments": "Amazu Manini",
+    "land": "Ibibanza",
+    "villas": "Amazu ya Villa",
+    "commercial": "Ubucuruzi"
+  },
+  "whatsapp": {
+    "chatWithUs": "Vugana natwe",
+    "phone": "+250 788 812 776"
+  },
+  "common": {
+    "loading": "Gutegereza...",
+    "noResults": "Nta mitungo yabonetse",
+    "showing": "Yerekana",
+    "properties": "imitungo",
+    "readMore": "Soma Byinshi",
+    "viewAll": "Reba Byose",
+    "learnMore": "Menya Byinshi"
+  }
+}

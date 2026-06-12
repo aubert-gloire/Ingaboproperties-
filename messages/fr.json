@@ -1,0 +1,162 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "properties": "Propriétés",
+    "developments": "Développements",
+    "blog": "Blog",
+    "contact": "Contact",
+    "listWithUs": "Lister Votre Bien",
+    "bookAppointment": "Prendre Rendez-vous"
+  },
+  "hero": {
+    "headline": "Votre Partenaire de Confiance en Immobilier au Rwanda",
+    "subheadline": "Découvrez des appartements, maisons, terrains et propriétés commerciales premium à travers le Rwanda",
+    "viewProperties": "Voir les Propriétés",
+    "bookAppointment": "Prendre Rendez-vous",
+    "listWithUs": "Lister Votre Bien"
+  },
+  "featured": {
+    "label": "Sélection Premium",
+    "title": "Propriétés en Vedette"
+  },
+  "stats": {
+    "totalProperties": "Propriétés au Total",
+    "happyClients": "Clients Satisfaits",
+    "yearsExperience": "Années d'Expérience",
+    "districtsCovered": "Districts Couverts"
+  },
+  "whyUs": {
+    "title": "Pourquoi Choisir Ingabo Properties",
+    "professional": "Service Professionnel",
+    "professionalDesc": "Accompagnement expert à chaque étape de votre projet immobilier",
+    "verified": "Annonces Vérifiées",
+    "verifiedDesc": "Chaque annonce est vérifiée et authentifiée par notre équipe",
+    "rwandaExperts": "Experts Rwanda",
+    "rwandaExpertsDesc": "Connaissance approfondie de chaque district et secteur au Rwanda",
+    "fastProcess": "Processus Rapide",
+    "fastProcessDesc": "Processus d'achat, de vente et de location simplifiés"
+  },
+  "propertyCard": {
+    "viewDetails": "Voir Détails",
+    "forSale": "À Vendre",
+    "forRent": "À Louer",
+    "nowSelling": "En Vente",
+    "bedrooms": "Chambres",
+    "bathrooms": "Salles de Bain",
+    "area": "Superficie",
+    "amenities": "Équipements",
+    "price": "Prix"
+  },
+  "filters": {
+    "allProperties": "Toutes les Propriétés",
+    "housesForSale": "Maisons à Vendre",
+    "homesForRent": "Maisons à Louer",
+    "landForSale": "Terrains à Vendre",
+    "apartments": "Appartements",
+    "villas": "Villas",
+    "comingSoon": "Prochainement",
+    "searchPlaceholder": "Rechercher par titre ou localisation...",
+    "minPrice": "Prix Min (RWF)",
+    "maxPrice": "Prix Max (RWF)",
+    "minBedrooms": "Chambres Min",
+    "allLocations": "Tous les Emplacements",
+    "sortNewest": "Plus Récents",
+    "sortPriceLow": "Prix Croissant",
+    "sortPriceHigh": "Prix Décroissant"
+  },
+  "propertyDetail": {
+    "description": "Description",
+    "amenities": "Équipements",
+    "bookAppointment": "Prendre Rendez-vous",
+    "contactAgent": "Contacter l'Agent",
+    "similarProperties": "Propriétés Similaires",
+    "location": "Localisation",
+    "specifications": "Spécifications"
+  },
+  "listWithUs": {
+    "title": "Publiez Votre Propriété",
+    "subtitle": "Soumettez votre propriété pour examen et atteignez des milliers d'acheteurs et de locataires",
+    "propertyTitle": "Titre de la Propriété",
+    "propertyType": "Type de Propriété",
+    "listingType": "Type d'Annonce",
+    "price": "Prix (RWF)",
+    "district": "District",
+    "sector": "Secteur",
+    "address": "Adresse Complète",
+    "description": "Description",
+    "bedrooms": "Chambres",
+    "bathrooms": "Salles de Bain",
+    "areaSqm": "Superficie (m²)",
+    "upi": "Numéro UPI (Terrain uniquement)",
+    "zoning": "Zonage",
+    "amenities": "Équipements",
+    "photos": "Photos de la Propriété",
+    "photosHint": "Minimum 3 photos requises",
+    "yourName": "Votre Nom",
+    "yourEmail": "Adresse Email",
+    "yourPhone": "Numéro de Téléphone",
+    "yourWhatsapp": "WhatsApp (facultatif)",
+    "submit": "Soumettre la Propriété",
+    "successTitle": "Soumission Reçue!",
+    "successMessage": "Nous examinerons votre propriété et vous répondrons dans 24 à 48 heures."
+  },
+  "bookAppointment": {
+    "title": "Prendre un Rendez-vous",
+    "subtitle": "Planifiez une visite ou une consultation avec notre équipe",
+    "fullName": "Nom Complet",
+    "email": "Email",
+    "phone": "Numéro de Téléphone",
+    "whatsapp": "WhatsApp (facultatif)",
+    "propertyInterest": "Propriété d'Intérêt",
+    "preferredDate": "Date Préférée",
+    "preferredTime": "Heure Préférée",
+    "message": "Message / Notes",
+    "submit": "Confirmer le Rendez-vous",
+    "successTitle": "Rendez-vous Réservé!",
+    "successMessage": "Nous confirmerons votre rendez-vous dans les 24 heures."
+  },
+  "contact": {
+    "title": "Nous Contacter",
+    "subtitle": "Nous sommes là pour vous aider avec tous vos besoins immobiliers",
+    "address": "Adresse",
+    "addressValue": "KG 11 Ave, Kigali, Rwanda",
+    "phone": "Téléphone",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "sendMessage": "Envoyez-nous un Message",
+    "yourName": "Votre Nom",
+    "yourEmail": "Votre Email",
+    "subject": "Sujet",
+    "message": "Message",
+    "send": "Envoyer",
+    "followUs": "Suivez-nous",
+    "successTitle": "Message Envoyé!",
+    "successMessage": "Nous vous répondrons dès que possible."
+  },
+  "footer": {
+    "tagline": "Votre partenaire de confiance en immobilier au Rwanda",
+    "quickLinks": "Liens Rapides",
+    "propertyTypes": "Types de Propriétés",
+    "contactUs": "Nous Contacter",
+    "allRightsReserved": "Tous droits réservés",
+    "houses": "Maisons",
+    "apartments": "Appartements",
+    "land": "Terrains",
+    "villas": "Villas",
+    "commercial": "Commercial"
+  },
+  "whatsapp": {
+    "chatWithUs": "Discutez avec nous",
+    "phone": "+250 788 812 776"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "noResults": "Aucune propriété trouvée",
+    "showing": "Affichage de",
+    "properties": "propriétés",
+    "readMore": "Lire la Suite",
+    "viewAll": "Voir Tout",
+    "learnMore": "En Savoir Plus"
+  }
+}
