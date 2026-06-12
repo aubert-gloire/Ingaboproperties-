@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { MapPin, Phone, Mail } from "lucide-react";
 import { FaInstagram, FaWhatsapp, FaYoutube, FaLinkedin, FaTiktok } from "react-icons/fa";
@@ -13,14 +14,14 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
           {/* Brand */}
           <div className="lg:col-span-1">
-            <div className="flex items-center gap-2 mb-4">
-              <div className="w-10 h-10 bg-forest-700 rounded-lg flex items-center justify-center">
-                <span className="text-gold-400 font-heading font-bold text-sm">IP</span>
-              </div>
-              <div>
-                <p className="font-heading font-bold text-paper text-lg leading-none">Ingabo</p>
-                <p className="text-paper/50 text-xs tracking-widest uppercase">Properties</p>
-              </div>
+            <div className="mb-4">
+              <Image
+                src="/logo.png"
+                alt="Ingabo Properties"
+                width={160}
+                height={64}
+                className="h-28 w-auto object-contain brightness-0 invert scale-125 origin-left"
+              />
             </div>
             <p className="text-sm text-paper/60 leading-relaxed mb-5">{t("tagline")}</p>
             <div className="flex items-center gap-3">
